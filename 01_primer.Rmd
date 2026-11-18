@@ -6,6 +6,15 @@ date: "2026-11-18"
 output: html_document
 ---
 
+## Anillamiento científico de aves
+
+![](Blasco zumeta.jpg){width="35%"}
+
+# Manual del anillador:
+
+[Manual](https://www.miteco.gob.es/content/dam/miteco/es/biodiversidad/temas/inventarios-nacionales/manual_anillador_tcm30-200261.pdf)
+
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
