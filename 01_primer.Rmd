@@ -1,5 +1,6 @@
 ---
 title: "01_primer.Rmd"
+subtitle: "rstudio git"
 author: "Pablo Luque López"
 date: "2026-11-18"
 output: html_document
